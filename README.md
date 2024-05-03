@@ -2,7 +2,7 @@
 
 -----
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsthejisoo&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=itsthejisoo&show_icons=true">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jisoo000528)](https://solved.ac/jisoo000528/)
 
 ### 🛠️Tech Stack🛠️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
