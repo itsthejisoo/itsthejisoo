@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=e8f5ff&height=300&section=header&text=Jisoo's%15GitHub&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=e8f5ff&height=300&section=header&text=Jisoo's%20GitHub&fontSize=70" />
 
 <!--
 **itsthejisoo/itsthejisoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
