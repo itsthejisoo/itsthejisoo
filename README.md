@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=e8f5ff&height=200&section=header&text=Jisoo's%20GitHub&fontSize=50&fontColor=2b2b2b" />
 
 -----
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsthejisoo&layout=compact">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jisoo000528)](https://solved.ac/jisoo000528/)
+<a href="https://solved.ac/jisoo000528"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jisoo000528&theme=dark"/></a>
 
-### 🛠️Tech Stack🛠️
+## 🛠️Tech Stack🛠️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <div>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> 
@@ -13,7 +12,7 @@
     </div>
 </div>
 
-### 💻Studying💻
+## 💻Studying💻
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -24,6 +23,9 @@
         <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
     </div>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsthejisoo&layout=compact">
+
 
 <!--
 **itsthejisoo/itsthejisoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
