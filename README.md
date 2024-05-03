@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=e8f5ff&height=300&section=header&text=Jisoo's%20GitHub&fontSize=70&fontColor=2b2b2b" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=e8f5ff&height=200&section=header&text=Jisoo's%20GitHub&fontSize=50&fontColor=2b2b2b" />
 
 -----
-
+## 💻Studying💻
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
