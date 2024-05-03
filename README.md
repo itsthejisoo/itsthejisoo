@@ -7,6 +7,7 @@
 <p>☁️ <b>What I want to be :</b> Front-end Developer</p>
 
 -----
+<h3 align="center">👩‍🎓BeckJoon Activity👩‍🎓</h3>
 <p align="center">
 <img src="https://ghchart.rshah.org/8294c4/itsthejisoo" width=80% />
 </p>
