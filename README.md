@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=e8f5ff&height=200&section=header&text=Jisoo's%20GitHub&fontSize=50&fontColor=2b2b2b" />
 
 -----
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsthejisoo&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsthejisoo&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=itsthejisoo&show_icons=true">
 
 ### 🛠️Tech Stack🛠️
