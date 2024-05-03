@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=e8f5ff&height=200&section=header&text=Jisoo's%20GitHub&fontSize=50&fontColor=2b2b2b" />
 <p align="right">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A4C1D7&title_bg=%238C8C8C&icon=&icon_color=%23FFFFFF&title=Today&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsthejisoo&count_bg=%23A4C1D7&title_bg=%238C8C8C&icon=&icon_color=%23FFFFFF&title=Today&edge_flat=false"/></a>
 </p>
 </br>
 <p>🎓 숭실대학교 AI융합학부 재학 중</p>
