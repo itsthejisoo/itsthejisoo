@@ -5,7 +5,7 @@
 </br>
 <p>🎓 숭실대학교 AI융합학부 재학 중</p>
 <p>☁️ <b>What I want to be :</b> Front-end Developer</p>
-
+<!-- 
 -----
 <h3 align="center">👩‍🎓BeckJoon Activity👩‍🎓</h3>
 <p align="center">
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-</div>
+</div> -->
 
 
 <!--
