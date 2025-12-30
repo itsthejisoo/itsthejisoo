@@ -5,7 +5,9 @@
 </br>
 <p>🎓 숭실대학교 AI융합학부 재학 중</p>
 <p>☁️ <b>What I want to be :</b> AI security Researcher</p>
+
 -----
+
 <!-- <h3 align="center">👩‍🎓BeckJoon Activity👩‍🎓</h3>
 <p align="center">
 <img src="https://ghchart.rshah.org/8294c4/itsthejisoo" width=80% />
@@ -24,9 +26,9 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
 </div>
 <p></p>
-<h3 align="center">💻Studying💻</h3>
+<h3 align="center">💻Studying💻</h3> -->
 <!-- Frontend -->
-<p align="center"><strong>Frontend</strong></p>
+<!-- <p align="center"><strong>Frontend</strong></p>
 <div align="center">
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/CSS-1572B6?&style=flat-square&logo=css3&logoColor=white">
