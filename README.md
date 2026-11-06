@@ -3,7 +3,9 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsthejisoo&count_bg=%23A4C1D7&title_bg=%238C8C8C&icon=&icon_color=%23FFFFFF&title=Today&edge_flat=false"/></a>
 </p>
 </br>
-<p>🎓 숭실대학교 AI융합학부 재학 중</p>
+<p>🎓 숭실대학교 AI융합학부 2021.03 ~ 2026.02</p>
+</br>
+<p>🎓 숭실대학교 AI융합보안학과 2026.03 ~ 재학 중</p>
 <p>☁️ <b>What I want to be :</b> AI security Researcher</p>
 
 -----
