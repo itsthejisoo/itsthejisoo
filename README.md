@@ -4,7 +4,6 @@
 </p>
 </br>
 <p>🎓 숭실대학교 AI융합학부 2021.03 ~ 2026.02</p>
-</br>
 <p>🎓 숭실대학교 AI융합보안학과 2026.03 ~ 재학 중</p>
 <p>☁️ <b>What I want to be :</b> AI security Researcher</p>
 
